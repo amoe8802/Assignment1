@@ -64,9 +64,8 @@ a:visited {
 }
 .p1 {
     display: flex;
-    flex-basis: auto;
+    flex-grow: 1;
 }
 .p2 {
     display: flex;
-    flex-basis: auto;
 }
