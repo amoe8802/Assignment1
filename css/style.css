@@ -6,6 +6,7 @@ body {
 .section1 {
     display: flex;
     font-size: 70%;
+    padding-left: 15px
 }
 .section2 {
     display: flex;
@@ -36,7 +37,8 @@ body {
     display: flex;
     font-size: 100%;
     flex-basis: 50%;
-    padding: 12px;
+    padding-left: 2.5%;
+    font-size: 18px;
 }
 
 .login {
@@ -62,4 +64,8 @@ a:visited {
     margin-bottom: 15%;
     font-weight: lighter;
     font-size: small;
+}
+u {
+    font-size: small;
+    padding-left: 2.5%;
 }
